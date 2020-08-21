@@ -1,3 +1,3 @@
 # lottery
-lottery  (It's a practice for PHP )
-Ability : CRUD and select random from added person 
+lottery  (practice for PHP )
+ Ability : CRUD and random select  from added person 
